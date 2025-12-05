@@ -1,3 +1,3 @@
 # all scripts 
 
-writeups s4vitar
+writeups from s4vitar
