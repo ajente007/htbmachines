@@ -1,4 +1,4 @@
 # htbmachines
 
-script de la academia
+scripts
 
