@@ -1,4 +1,3 @@
-# htbmachines
+# all scripts 
 
-scripts
-
+writeups s4vitar
