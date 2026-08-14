@@ -1,3 +1,3 @@
 # all scripts 
 
-writeups from s4vitar
+herramientas en python, extraidas de los antiguos writeups de s4vitar
